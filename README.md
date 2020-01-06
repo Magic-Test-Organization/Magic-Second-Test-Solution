@@ -18,3 +18,5 @@ this is the second  thing that should only be in the solution
 $%$End
 
 this is the third thing that should be in both
+
+This should also be in both
