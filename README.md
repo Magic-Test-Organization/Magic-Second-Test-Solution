@@ -20,3 +20,5 @@ $%$End
 this is the third thing that should be in both
 
 This should also be in both
+
+As should this
