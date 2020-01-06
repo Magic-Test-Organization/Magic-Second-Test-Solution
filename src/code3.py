@@ -1,4 +1,4 @@
 def new_function:
-  $%$Start
+  # $%$Start
   print("Hello everyone")
-  $%$End
+  # $%$End
